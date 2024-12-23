@@ -5,8 +5,8 @@
 <br text-align="center"> ![](https://github-readme-stats.vercel.app/api?username=JoannVetter&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) &emsp;&emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoannVetter&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
 
 <div align="center">
-  <a href="https://github.com/SchawnnDev">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SchawnnDev&layout=compact&hide_border=true&theme=github_dark&langs_count=12" />
+  <a href="https://github.com/JoannVetter">
+    <img src="https://wakatime.com/share/@753af281-1fde-48a0-831c-eb4f1335a531/f8dcefcc-d1cf-4136-8374-889c88329df3.svg"></img>
   </a>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
